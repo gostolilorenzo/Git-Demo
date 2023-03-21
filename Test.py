@@ -1,8 +1,2 @@
 print('Hello world')
 print('text!')
-print('Hello world')
-print('text!')
-print('Hello world')
-print('text!')
-print('Hello world')
-print('text!')
